@@ -1,10 +1,11 @@
 package br.soulcode.Aula01_04;
 
-import java.util.Iterator;
 
 public class ArrayMulti {
 
 	public static void main(String[] args) {
+		
+		System.out.println("Hello");
 
 		int[][] arrayMulti = { { 1, 2, 3 }, { 2, 3, 4 }, { 4, 4, 5 } };
 
